@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105006088808",
+    "project_id": "zco-dc083",
+    "storage_bucket": "zco-dc083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105006088808:android:1ca8456910ccaec54cb1dd",
+        "android_client_info": {
+          "package_name": "com.example.zco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105006088808-3649igabpcpcbr01s6p8guk8g1ha4l39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiX2TkE1Kww5jjF525o1sS957ixwxktgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105006088808-3649igabpcpcbr01s6p8guk8g1ha4l39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
